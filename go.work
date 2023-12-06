@@ -1,0 +1,7 @@
+go 1.19
+
+use (
+	./milvius_service
+	./openApI
+	./surreal_service
+)
